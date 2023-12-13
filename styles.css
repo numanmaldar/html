@@ -1,0 +1,85 @@
+.page{
+    background-color: rgb(17, 17, 16);
+}
+
+.top-container{
+    background-color: rgb(17, 17, 16);
+    position: relative;
+    padding-top: 100px;
+}
+
+.text{
+    margin-left: 50%;
+    margin-bottom: 20%;
+}
+.font1{
+    color: aliceblue;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-bottom: 0;
+}
+
+.font2{
+    color: rgb(156, 40, 173);
+    font-weight: bold;
+    line-height: 1.8;
+    font-family: 'Source Serif 4', serif;
+}
+
+.photo{
+    position: relative;
+    width: 190px;
+    height: 190px;
+    border-radius: 40%;
+    overflow: hidden;
+    float: left;
+    margin-right: 20px;
+    z-index: 1;
+
+}
+
+.middle-container{
+    background-color: rgb(17, 17, 16) ;
+    margin-top: -65px;
+    padding-left: 15px;;
+    padding-top: 10px;
+}
+.font3{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: 'Nunito Sans', sans-serif;
+    color:rgb(156, 40, 173);
+    font-weight: bold;
+    font-size: 32;
+    margin-top: 5%;
+}
+
+.para{
+    width:90%;
+    text-align:left;
+}
+
+.head{
+    padding-left: 40%;
+}
+
+.head1{
+    display: block;
+    padding-left: 32%;
+    margin-bottom: 5px;
+}
+
+.button{
+    display: block;
+    margin-left: 44%;
+}
+
+.bottom-container{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(7, 6, 6);
+}
+
+.social{
+    display: block;
+    margin-left: 42%;
+}
